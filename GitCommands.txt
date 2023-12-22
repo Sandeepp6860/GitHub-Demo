@@ -56,14 +56,12 @@ Branch Commands:
 
 20. git branch -d BRANCH_NAME -> To delete a branch
 
-Merge Commands:
 
-Way 1:
+Pull Commands:
 
-git diff BRANCH_NAME -> To compare commits, branches, files and more
+21. git pull origin main -> Used to fetch and download content from remote repo and immediately update the local repo to match that content.
 
-git merge BRANCH_NAME -> To Merge 2 branches
+Merge Conflicts:
 
-Way 2:
 
-Create a Pull Request(PR)
+
