@@ -36,7 +36,7 @@ Commands we use , when we start development locally
 
 11. git init -> To initialize a new git repository locally to track our changes.
 
-12. git remote add origin URL_OF_THE_REPOSITORY
+12. git remote add origin URL_OF_THE_REPOSITORY -> To establish the connection between Remote and Local Repositories.
 
 13. git remote -v -> To verify remote 
 
