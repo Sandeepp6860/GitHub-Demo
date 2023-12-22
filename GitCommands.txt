@@ -60,3 +60,21 @@ Branch Commands:
 Pull Commands:
 
 21. git pull origin main -> Used to fetch and download content from remote repo and immediately update the local repo to match that content.
+
+Undoing changes:
+
+Case 1: Staged Changes:
+
+    git reset FILE_NAME
+
+    git reset
+
+Case 2: Commited changes (For one commit)
+
+    git reset HEAD~1
+
+Case 3: Commited changes (for many commits)
+
+    git reset COMMIT_HASH
+
+    git reset --hard COMMIT_HASH
