@@ -54,4 +54,4 @@ Branch Commands:
 
 19. git checkout -b NEW_BRANCH_NAME -> To create a new branch
 
-20. git checkout -d BRANCH_NAME -> To delete a branch
+20. git branch -d BRANCH_NAME -> To delete a branch
