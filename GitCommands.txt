@@ -60,8 +60,3 @@ Branch Commands:
 Pull Commands:
 
 21. git pull origin main -> Used to fetch and download content from remote repo and immediately update the local repo to match that content.
-
-Merge Conflicts:
-
-
-
