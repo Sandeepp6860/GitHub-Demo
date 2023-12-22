@@ -43,3 +43,15 @@ Commands we use , when we start development locally
 14. git branch -> Returns the currently working branch.
 
 15.git branch -M main -> To rename a branch
+
+Branch Commands:
+
+16. git branch -> To check the branch
+
+17. git branch -M main -> To change the branch name
+
+18. git checkout BRANCH_NAME -> To navigate to the branch
+
+19. git checkout -b NEW_BRANCH_NAME -> To create a new branch
+
+20. git checkout -d BRANCH_NAME -> To delete a branch
