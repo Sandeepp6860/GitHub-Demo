@@ -78,3 +78,5 @@ Case 3: Commited changes (for many commits)
     git reset COMMIT_HASH
 
     git reset --hard COMMIT_HASH
+
+Fork is a rough copy.
