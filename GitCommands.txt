@@ -23,3 +23,23 @@ There are four stages:
 7. git add -> To make our files move to Staging stage i.e., Files ready to commit.
 
 8. git commit -m "Commit Message" -> It is the record of the change. Snapshot.
+
+9. git log -> It returns the list of commits.
+
+10. git push origin main -> Push local repo to remote repository.
+
+    origin -> GitHub repository Default name.
+    main -> main is a Branch name.
+
+
+Commands we use , when we start development locally
+
+11. git init -> To initialize a new git repository locally to track our changes.
+
+12. git remote add origin URL_OF_THE_REPOSITORY
+
+13. git remote -v -> To verify remote 
+
+14. git branch -> Returns the currently working branch.
+
+15.git branch -M main -> To rename a branch
