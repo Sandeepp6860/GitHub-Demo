@@ -1,0 +1,25 @@
+1. git version or git -v or git --version to check if we have Git installed or not.
+
+2. git config --global user.name "Sandeep Podduturi"  -> To configure name.
+
+3. git config --global user.email "Sandeep@gmail.com"  -> To configure email.
+
+4. git config --list -> Returns the configuration list.
+
+5. git clone URL -> It will clone/downloads the project from the remote repository to local machine.
+
+6. git status -> Status of the code (Committed or Not).
+
+There are four stages:
+
+1. Untracked: New files that Git does not track yet. (Example: Adding any new file)
+
+2. Modified: Any changes in the file. (Example: Modifying any file that Git is tracking)
+
+3. Staged: Files which are ready to commit.
+
+4. Unmodified: Unchanged.
+
+7. git add -> To make our files move to Staging stage i.e., Files ready to commit.
+
+8. git commit -m "Commit Message" -> It is the record of the change. Snapshot.
