@@ -1,2 +1,3 @@
 # GitHub-Demo
-This repository is to learn Git and GitHub. 
+Author-Sandeep Podduturi
+This repository is to learn Git and GitHub.I will update this repository with my learnings on Git and GitHub Topics.
